@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Project
+
+## Introduction
+
+This is a simple example of a README file written in Markdown with HTML.
+
+## Colored Boxes
+
+You can add colored boxes using HTML:
+
+<div style="background-color:#ffdddd;padding:10px;border-radius:5px;">
+  This is a red box.
+</div>
+
+<div style="background-color:#ddffdd;border:1px solid #009900;padding:10px;border-radius:5px;">
+  This is a green box with a border.
+</div>
