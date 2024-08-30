@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachel Jaisey! Welcome to my profile.</h1>
+<h1 align="center">Hi, I'm Rachel Jaisey! Welcome to my profile 👋</h1>
 <h3 align="center">I am a junior software engineer looking for a new role!</h3>
 
 - 🔭 I’m currently working on [30 Days of Code](https://github.com/racheljayyx/30-Days-Of-Code/)
