@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Rachel Jaisey's profile 👋</h1>
 <h3 align="center">I am a junior software engineer looking for a new role!</h3>
 
-- 🔭 I’m currently working on [30 Days of Code](https://github.com/racheljayyx/30-Days-Of-Code/)
+- 🔭 I’m currently working on [Qwiz App](https://github.com/racheljayyx/qwiz-app)
 
 - 📫 How to reach me **jaiseyrachel@gmail.com**
 
